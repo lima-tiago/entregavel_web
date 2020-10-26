@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body { 
+    padding-top: 70px; 
+    background-color: black;
+    color: white;
+}
+
+h2{
+    text-align: center;
+}
+
+.jumbotron, header{
+    background-color: #474954;
+}
+
+.img-responsive{
+    min-width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+.d-xs-none{
+    height: 40%;
+    width: 40%;
+}
